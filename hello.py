@@ -3,7 +3,7 @@ print("Hello from Binder!")
 import tkinter as tk
 
 
-my_w = tkinter.Tk()
+my_w = tk.Tk()
 my_w.geometry("450x100")  # Size of the window
 my_w.title("Experiment Selection")  # Adding a title
 
